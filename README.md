@@ -9,4 +9,7 @@
   requirements in this test. 
   
   The finally we have the ConsoleInterface class that is responsable for the command line interface.
+
+#2.) Tests
+  All main components of the application have been tested. Please view this tests folder.
  

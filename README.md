@@ -8,4 +8,5 @@
   The next class is the *OrdersService* class which utilized all the functionality listed above to perform
   requirements in this test. 
   
-  The final class is the ConsoleInterface class 
+  The finally we have the ConsoleInterface class that is responsable for the command line interface.
+ 
